@@ -28,10 +28,15 @@ body {
     content: "";
     width: 30px;
     height: 1px;
-    position: absolute;
+    position: center;
     display: block;
     left: 0;
     top: 50%;
+}
+
+.section-title {
+    margin: 1rem 0 4rem;
+    font-size: 2rem;
 }
 
 .small-text {
