@@ -17,7 +17,7 @@ body {
 .pre-title {
     text-transform: uppercase;
     letter-spacing: 0.5rem;
-    position: relative;
+    position: center;
     padding-left: 40px;
     width: fit-content;
     font-weight: 400;
