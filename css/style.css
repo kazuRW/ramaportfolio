@@ -9,6 +9,31 @@ body {
     padding: 8rem 0;
 }
 
+.portofolios main-container {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.pre-title {
+    text-transform: uppercase;
+    letter-spacing: 0.5rem;
+    position: relative;
+    padding-left: 40px;
+    width: fit-content;
+    font-weight: 400;
+    font-size: 0.9rem;
+}
+
+.pre-title::before {
+    content: "";
+    width: 30px;
+    height: 1px;
+    position: absolute;
+    display: block;
+    left: 0;
+    top: 50%;
+}
+
 .small-text {
     color: #5b5b5b;
     font-size: 14px;
