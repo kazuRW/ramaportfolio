@@ -1,3 +1,3 @@
 UPDATE AGUSTUS 2024
 
-MAKE WEBSITE WITH LOVE AND DEPLYO WITH VERCEL :  https://ramaportfolio-tau.vercel.app/
+MAKE WEBSITE WITH LOVE AND DEPLOY WITH VERCEL :  https://ramaportfolio-tau.vercel.app/
